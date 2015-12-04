@@ -64,11 +64,11 @@
 
 #define THREADS_MAX 1
 
-#define URL_CONTRIBUTE "http://code.dgeniusxpress.com/apkstudio"
+#define URL_CONTRIBUTE "http://github.com/stephdgenius/apkstudio"
 #define URL_DOWNLOADS "http://download.dgeniusxpress.com/apkstudio"
 #define URL_DOCUMENTATION "http://doc.dgeniusxpress.com/apkstudio"
-#define URL_ISSUES "http://dgeniusxpress.com/apkstudio/issues"
-#define URL_THANKS "http://dgeniusxpress.com/apkstudio/thanks"
+#define URL_ISSUES "https://github.com/stephdgenius/APKStudio-source/issues"
+#define URL_THANKS "https://github.com/stephdgenius/APKStudio-source/issues/2"
 
 /**
   * @brief Build flags
